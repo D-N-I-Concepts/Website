@@ -354,8 +354,8 @@ button:focus {
         border-bottom: 0px; }
       .home_banner_area .home_right_box .home_item:last-child {
         border-bottom: 0px; }
-      .home_banner_area .home_right_box .home_item:hover {
-        background: #faba00; }
+      /* .home_banner_area .home_right_box .home_item:hover {
+        background: #faba00; } */
 
 .blog_banner {
   min-height: 780px;
